@@ -1,0 +1,59 @@
+
+/*-- Nav --*/
+.nav_all li{
+	color:white;
+	display:inline;
+	margin-right:10px;
+	line-height: 15vh;
+}
+.nav_all{
+	background-color:black;
+	width:100vw;
+	height:15vh;
+}
+.navcontainer{
+	width:80%;
+	margin: 0 auto;
+}
+
+.navbottom{
+	position:fixed;
+	bottom: 0;
+}
+/*------ Nav End -------*/
+
+/*--- Buttons ---*/
+.btn{
+	padding:0px 30px;
+	font-size: 15px;
+	height:60px;
+	line-height: 60px;
+	border:1px solid black;
+	border-radius:10px;
+	background-color: transparent;
+	color:white;
+}
+
+.btn-red{
+	background-color: red;
+}
+
+.btn-blue{
+	background-color: blue;
+}
+/*------ Buttons End -------*/
+
+.main{
+	width:100%;
+	margin-right: -20px;
+	margin-left: -20px;
+}
+
+.oneThird{
+	width: 33.33%;
+    display: inline;
+    float: left;
+    padding:0 20px;
+    position: relative;
+    margin:0px;
+}
